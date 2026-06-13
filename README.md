@@ -32,7 +32,7 @@ End-to-end sklearn pipeline + Streamlit + FastAPI deployment
 
 **🛒 Retail Sales Exploratory Data Analysis**  
 In-depth EDA uncovering seasonal trends and customer behavior  
-→ [View Repository](#)
+→ [View Repository](https://github.com/ENGABHAY/Retail_Sales_EDA_Python)
 
 ---
 
