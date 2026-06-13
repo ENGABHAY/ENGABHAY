@@ -17,10 +17,8 @@ Fresh B.Tech graduate passionate about extracting insights from data and buildin
 Credit risk classification model (ROC-AUC ~0.79) on 300K+ records → Streamlit + FastAPI deployment
 
 **Hospital Stay Duration Prediction**  
-Multi-class classification + clustering on 318K patient records with full sklearn pipeline
+Multi-class classification + Binary Classifiation + clustering on 318K patient records with full sklearn pipeline
 
-**COVID-19 Time Series Forecasting**  
-ARIMA, SARIMA, Prophet & CatBoost models
 
 **Retail Sales EDA**  
 In-depth exploratory analysis with business insights and interactive visualizations
