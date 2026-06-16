@@ -7,7 +7,7 @@ Fresh B.Tech Electronics & Computer Engineering graduate (2026) passionate about
 ### 🛠️ Tech Stack
 **Languages:** Python, SQL  
 **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Power BI  
-**Machine Learning:** Scikit-learn, XGBoost, CatBoost, LightGBM, Optuna  
+**Machine Learning:** Scikit-learn, XGBoost, CatBoost, LightGBM, ARIMA, SARIMAX, Prophet, Optuna  
 **Deep Learning:** TensorFlow / Keras (ANN, CNN)  
 **Deployment:** Streamlit, FastAPI  
 **Tools:** Git, Jupyter Notebook, Google Colab, MS Excel
