@@ -1,13 +1,10 @@
 # Hi, I'm Abhay Kadam 👋
-
 **Data Analyst | Data Scientist | ML Engineer**
-
 Fresh B.Tech Electronics & Computer Engineering graduate (2026) passionate about turning data into actionable insights and building production-ready ML solutions.
 
 ---
 
 ### 🛠️ Tech Stack
-
 **Languages:** Python, SQL  
 **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Power BI  
 **Machine Learning:** Scikit-learn, XGBoost, CatBoost, LightGBM, Optuna  
@@ -29,11 +26,15 @@ Binary + 11-class classification on 318K+ patient records. Includes clustering (
 End-to-end sklearn pipeline + Streamlit + FastAPI deployment  
 → [View Repository](https://github.com/ENGABHAY/hospital-stay-prediction)
 
+**🦠 COVID-19 Global Analysis & US Case Forecasting**  
+Global EDA on JHU CSSE 2020 dataset + US daily case forecasting.  
+Benchmarked ARIMA, SARIMAX, Prophet, Exponential Smoothing & 8 ML models → **Ridge Regression achieved 90% accuracy**  
+→ [View Repository](https://github.com/ENGABHAY/Covid-19-Forecasting)
 
 **🛒 Retail Sales Exploratory Data Analysis**  
 In-depth EDA uncovering seasonal trends and customer behavior  
 → [View Repository](https://github.com/ENGABHAY/Retail_Sales_EDA_Python)
-
+ 
 ---
 
 ### 📊 Let's Connect
