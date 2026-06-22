@@ -1,49 +1,52 @@
-# Hi, I'm Abhay Kadam 👋
-**Data Analyst | Data Scientist | ML Engineer**
+# Hi, I'm Abhay Kadam 👋  
+
+**Data Analyst | Data Scientist | ML Engineer**  
 Fresh B.Tech Electronics & Computer Engineering graduate (2026) passionate about turning data into actionable insights and building production-ready ML solutions.
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack  
+
 **Languages:** Python, SQL  
 **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Power BI  
 **Machine Learning:** Scikit-learn, XGBoost, CatBoost, LightGBM, ARIMA, SARIMAX, Prophet, Optuna  
 **Deep Learning:** TensorFlow / Keras (ANN, CNN)  
 **Deployment:** Streamlit, FastAPI  
-**Tools:** Git, Jupyter Notebook, Google Colab, MS Excel
+**Tools:** Git, Jupyter Notebook, Google Colab, MS Excel  
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured Projects  
 
 **🏠 Home Loan Default Predictor**  
 Credit risk classification model on 300K+ records achieving **ROC-AUC ≈ 0.79**.  
 Built with CatBoost + Optuna → Deployed using **Streamlit + FastAPI**  
-→ [View Repository](https://github.com/ENGABHAY/Home-Loan-Default-Predictor) | [Live Demo](#)
+→ [View Repository](https://github.com/ENGABHAY/Home-Loan-Default-Predictor)  
 
 **🏥 Hospital Stay Duration Prediction**  
 Binary + 11-class classification on 318K+ patient records. Includes clustering (UMAP + HDBSCAN).  
 End-to-end sklearn pipeline + Streamlit + FastAPI deployment  
-→ [View Repository](https://github.com/ENGABHAY/hospital-stay-prediction)
+→ [View Repository](https://github.com/ENGABHAY/hospital-stay-prediction)  
 
 **🦠 COVID-19 Global Analysis & US Case Forecasting**  
 Global EDA on JHU CSSE 2020 dataset + US daily case forecasting.  
 Benchmarked ARIMA, SARIMAX, Prophet, Exponential Smoothing & 8 ML models → **Ridge Regression achieved 90% accuracy**  
-→ [View Repository](https://github.com/ENGABHAY/Covid-19-Forecasting)
-
-**🌾 Rice Leaf Disease Prediction Using deep learning**  
-Multi-class image classification model for automated rice leaf disease detection using deep learning.  
-Compared multiple models architectures, performed image preprocessing, model training, and evaluation using TensorFlow/Keras → selected as the final model as per project requirements.  
-→ [View Repository](https://github.com/ENGABHAY/Rice-Disease-Prediction-Deep-Learning)
+→ [View Repository](https://github.com/ENGABHAY/Covid-19-Forecasting)  
+  
+**🌾 Rice Leaf Disease Prediction Using Deep Learning**  
+Multi-class image classification model for automated rice leaf disease detection.  
+Compared CNN and MobileNetV2 architectures, performed image preprocessing, model training, and evaluation using TensorFlow/Keras → MobileNetV2 achieved the best performance while CNN was selected as the final model according to project requirements.  
+→ [View Repository](https://github.com/ENGABHAY/Rice-Disease-Prediction-Deep-Learning)  
 
 **🛒 Retail Sales Exploratory Data Analysis**  
 In-depth EDA uncovering seasonal trends and customer behavior  
-→ [View Repository](https://github.com/ENGABHAY/Retail_Sales_EDA_Python)
- 
+→ [View Repository](https://github.com/ENGABHAY/Retail_Sales_EDA_Python)  
+
 ---
 
-### 📊 Let's Connect
-- [LinkedIn](https://linkedin.com/in/kadamabhay)
-- [Email](mailto:kadamabhay54@gmail.com)
+### 📊 Let's Connect  
 
-Open to **Data Analyst, Data Scientist, and ML Engineer** opportunities! , add this here too 
+* [LinkedIn](https://linkedin.com/in/kadamabhay)  
+* [Email](mailto:kadamabhay54@gmail.com)  
+
+Open to **Data Analyst, Data Scientist, and ML Engineer** opportunities!  
