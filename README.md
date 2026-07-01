@@ -49,4 +49,5 @@ In-depth EDA uncovering seasonal trends and customer behavior
 * [LinkedIn](https://linkedin.com/in/kadamabhay)  
 * [Email](mailto:kadamabhay54@gmail.com)  
 
+
 Open to **Data Analyst, Data Scientist, and ML Engineer** opportunities!  
