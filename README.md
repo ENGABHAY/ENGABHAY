@@ -18,10 +18,20 @@ Fresh B.Tech Electronics & Computer Engineering graduate (2026) passionate about
 
 ### 🚀 Featured Projects  
 
+**🎫 IT Service Management (ITSM) Incident Analytics** *(Client Project)*
+End-to-end analytics suite on 46K+ incident tickets — priority classification, daily volume forecasting, and change-risk prediction.
+CatBoost + SARIMAX models → **ROC-AUC 0.94** (priority), **MAE 31 tickets/day** (forecasting) → Deployed using **Streamlit + FastAPI**
+→ [View Repository](https://github.com/ENGABHAY/ABC-Tech-ITSM)  
+
 **🏠 Home Loan Default Predictor**  
 Credit risk classification model on 300K+ records achieving **ROC-AUC ≈ 0.79**.  
 Built with CatBoost + Optuna → Deployed using **Streamlit + FastAPI**  
 → [View Repository](https://github.com/ENGABHAY/Home-Loan-Default-Predictor)  
+
+**🌾 Rice Leaf Disease Prediction Using Deep Learning**  
+Multi-class image classification model for automated rice leaf disease detection.  
+Compared CNN and MobileNetV2 architectures, performed image preprocessing, model training, and evaluation using TensorFlow/Keras → MobileNetV2 achieved the best performance while CNN was selected as the final model according to project requirements.  
+→ [View Repository](https://github.com/ENGABHAY/Rice-Disease-Prediction-Deep-Learning)  
 
 **🏥 Hospital Stay Duration Prediction**  
 Binary + 11-class classification on 318K+ patient records. Includes clustering (UMAP + HDBSCAN).  
@@ -33,11 +43,6 @@ Global EDA on JHU CSSE 2020 dataset + US daily case forecasting.
 Benchmarked ARIMA, SARIMAX, Prophet, Exponential Smoothing & 8 ML models → **Ridge Regression achieved 90% accuracy**  
 → [View Repository](https://github.com/ENGABHAY/Covid-19-Forecasting)  
   
-**🌾 Rice Leaf Disease Prediction Using Deep Learning**  
-Multi-class image classification model for automated rice leaf disease detection.  
-Compared CNN and MobileNetV2 architectures, performed image preprocessing, model training, and evaluation using TensorFlow/Keras → MobileNetV2 achieved the best performance while CNN was selected as the final model according to project requirements.  
-→ [View Repository](https://github.com/ENGABHAY/Rice-Disease-Prediction-Deep-Learning)  
-
 **🛒 Retail Sales Exploratory Data Analysis**  
 In-depth EDA uncovering seasonal trends and customer behavior  
 → [View Repository](https://github.com/ENGABHAY/Retail_Sales_EDA_Python)  
