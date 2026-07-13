@@ -45,7 +45,6 @@ Benchmarked ARIMA, SARIMAX, Prophet, Exponential Smoothing & 8 ML models → **R
   
 **🛒 Retail Sales Exploratory Data Analysis**  
 In-depth EDA uncovering seasonal trends and customer behavior  
-→ [View Repository](https://github.com/ENGABHAY/Retail_Sales_EDA_Python)  
 
 ---
 
