@@ -43,8 +43,6 @@ Global EDA on JHU CSSE 2020 dataset + US daily case forecasting.
 Benchmarked ARIMA, SARIMAX, Prophet, Exponential Smoothing & 8 ML models → **Ridge Regression achieved 90% accuracy**  
 → [View Repository](https://github.com/ENGABHAY/Covid-19-Forecasting)  
   
-**🛒 Retail Sales Exploratory Data Analysis**  
-In-depth EDA uncovering seasonal trends and customer behavior  
 
 ---
 
