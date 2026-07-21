@@ -21,7 +21,6 @@ Fresh B.Tech Electronics & Computer Engineering graduate (2026) passionate about
 **🎫 IT Service Management (ITSM) Incident Analytics** *(Client Project)*
 End-to-end analytics suite on 46K+ incident tickets — priority classification, daily volume forecasting, and change-risk prediction.
 CatBoost + SARIMAX models → **ROC-AUC 0.94** (priority), **MAE 31 tickets/day** (forecasting) → Deployed using **Streamlit + FastAPI**    
-→ [View Repository](https://github.com/ENGABHAY/ABC-Tech-ITSM)  
 
 **🏠 Home Loan Default Predictor**  
 Credit risk classification model on 300K+ records achieving **ROC-AUC ≈ 0.79**.  
