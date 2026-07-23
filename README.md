@@ -1,36 +1,54 @@
-<h1 align="center">Hi 👋, I'm Abhay Rambhau Kadam</h1>
-<h3 align="center">Data Analyst | Building toward AI Engineering | ML & Deep Learning</h3>
+# Hi, I'm Abhay Kadam 👋  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=engabhay&label=Profile%20views&color=0e75b6&style=flat" alt="engabhay" /> </p>
+**Data Analyst | Data Scientist | ML Engineer**  
+Fresh B.Tech Electronics & Computer Engineering graduate (2026) passionate about turning data into actionable insights and building production-ready ML solutions.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=engabhay" alt="engabhay" /></a> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/kadamabhay54" target="blank"><img src="https://img.shields.io/twitter/follow/kadamabhay54?logo=twitter&style=for-the-badge" alt="kadamabhay54" /></a> </p>
+### 🛠️ Tech Stack  
 
-- 🔭 I’m currently working on [building end-to-end ML/AI projects and strengthening my skills in LLM-based application development](https://github.com/ENGABHAY)
+**Languages:** Python, SQL  
+**Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Power BI  
+**Machine Learning:** Scikit-learn, XGBoost, CatBoost, LightGBM, ARIMA, SARIMAX, Prophet, Optuna  
+**Deep Learning:** TensorFlow / Keras (ANN, CNN)  
+**Deployment:** Streamlit, FastAPI  
+**Tools:** Git, Jupyter Notebook, Google Colab, MS Excel  
 
-- 🌱 I’m currently learning **LLMs, RAG pipelines, LangChain, Prompt Engineering**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/ENGABHAY](https://github.com/ENGABHAY)
+### 🚀 Featured Projects  
 
-- 💬 Ask me about **Python, Machine Learning, Deep Learning, Data Analysis, Data Science, SQL, Natural Language Processing and Artificial Intellience**
+**🎫 IT Service Management (ITSM) Incident Analytics** *(Client Project)*
+End-to-end analytics suite on 46K+ incident tickets — priority classification, daily volume forecasting, and change-risk prediction.
+CatBoost + SARIMAX models → **ROC-AUC 0.94** (priority), **MAE 31 tickets/day** (forecasting) → Deployed using **Streamlit + FastAPI**    
 
-- 📫 How to reach me **kadamabhay54@gmail.com**
+**🏠 Home Loan Default Predictor**  
+Credit risk classification model on 300K+ records achieving **ROC-AUC ≈ 0.79**.  
+Built with CatBoost + Optuna → Deployed using **Streamlit + FastAPI**  
+→ [View Repository](https://github.com/ENGABHAY/Home-Loan-Default-Predictor)  
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1s4M5qhN6FL_j-HdxHqC1yVgLLBVqDPhe/view?usp=sharing](https://drive.google.com/file/d/1s4M5qhN6FL_j-HdxHqC1yVgLLBVqDPhe/view?usp=sharing)
+**🌾 Rice Leaf Disease Prediction Using Deep Learning**  
+Multi-class image classification model for automated rice leaf disease detection.  
+Compared CNN and MobileNetV2 architectures, performed image preprocessing, model training, and evaluation using TensorFlow/Keras → MobileNetV2 achieved the best performance while CNN was selected as the final model according to project requirements.  
+→ [View Repository](https://github.com/ENGABHAY/Rice-Disease-Prediction-Deep-Learning)  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/kadamabhay54" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kadamabhay54" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kadamabhay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kadamabhay" height="30" width="40" /></a>
-<a href="https://instagram.com/abhay_kadam__patil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhay_kadam__patil" height="30" width="40" /></a>
-</p>
+**🏥 Hospital Stay Duration Prediction**  
+Binary + 11-class classification on 318K+ patient records. Includes clustering (UMAP + HDBSCAN).  
+End-to-end sklearn pipeline + Streamlit + FastAPI deployment  
+→ [View Repository](https://github.com/ENGABHAY/hospital-stay-prediction)  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+**🦠 COVID-19 Global Analysis & US Case Forecasting**  
+Global EDA on JHU CSSE 2020 dataset + US daily case forecasting.  
+Benchmarked ARIMA, SARIMAX, Prophet, Exponential Smoothing & 8 ML models → **Ridge Regression achieved 90% accuracy**  
+→ [View Repository](https://github.com/ENGABHAY/Covid-19-Forecasting)  
+  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=engabhay&show_icons=true&locale=en&layout=compact" alt="engabhay" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=engabhay&show_icons=true&locale=en" alt="engabhay" /></p>
+### 📊 Let's Connect  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=engabhay&" alt="engabhay" /></p>
+* [LinkedIn](https://linkedin.com/in/kadamabhay)  
+* [Email](mailto:kadamabhay54@gmail.com)  
+
+
+Open to **Data Analyst, Data Scientist, and ML Engineer** opportunities!  
