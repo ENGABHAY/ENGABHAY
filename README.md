@@ -34,7 +34,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode,docker,kubernetes,fastapi,flask" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode,docker,kubernetes,fastapi" />
 </p>
 
 **Languages & Tools**
