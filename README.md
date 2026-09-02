@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhay Kadam</h1>
-<h3 align="center">Data Scientist | ML Engineer | AI Engineer in the making</h3>
+<h3 align="center">Data Analyst | Data Scientist | ML Engineer | AI Engineer in the making</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+ML+%26+Deep+Learning+solutions;Currently+exploring+LLMs+%2B+RAG+pipelines;Turning+data+into+decisions" alt="Typing SVG" />
@@ -34,7 +34,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode,docker,kubernetes,fastapi" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode,docker,kubernetes,fastapi,powerbi,excel,sql" />
 </p>
 
 **Languages & Tools**
