@@ -93,7 +93,8 @@
 | 🌾 [Rice Leaf Disease Detection](https://github.com/ENGABHAY/Rice-Disease-Prediction-Deep-Learning) | Deep learning image classifier for crop disease | CNN, TensorFlow |
 | 📊 [Retail Sales EDA](https://github.com/ENGABHAY/Retail_Sales_EDA_Python) | Exploratory analysis on global retail data (2022–2024) | Pandas, Matplotlib |
 
-> 🔄 **Currently building:** a Retrieval-Augmented Generation (RAG) project — combining document retrieval with LLMs for grounded, context-aware answers.
+> 🔄 **Currently building:** object detection project using yolo family for detecting cheating in online exam 
+
 
 ---
 
