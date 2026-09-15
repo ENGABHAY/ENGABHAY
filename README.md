@@ -24,7 +24,7 @@
 - 🎓 B.Tech in Electronics and Computer Engineering (2026)
 - 💼 Data Science & ML Intern @ Rubixe
 - 🔭 Currently building a **RAG (Retrieval-Augmented Generation) pipeline** — combining LLMs with vector search for context-aware Q&A
-- 🌱 Deepening my skills in **Transformers, LangChain, and LLM engineering**
+- 🌱 Deepening my skills in **Transformers, LangChain,LangGraph and LLM engineering**
 - 📊 Core focus: Machine Learning, Deep Learning, and Computer Vision
 - 📍 Based in Hyderabad, India | Open to PAN India & remote roles
 - ⚡ Fun fact: I like turning messy datasets into clean insights
