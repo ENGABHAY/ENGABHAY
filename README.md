@@ -24,6 +24,8 @@
 
 ## 👨‍💻 &nbsp;About Me
 
+<div align="center">
+
 <table>
 <tr>
 <td valign="top">
@@ -36,8 +38,8 @@ class Abhay:
     college   = "Jawaharlal Nehru Engineering College"
     base      = "Hyderabad, India  |  PAN India / Remote"
 
-    learning  = ["LLMs", "RAG pipelines",
-                 "LangChain", "Prompt Engineering"]
+    learning  = ["Agentic AI", "LangGraph", "MCP",
+                 "Tool Calling", "Agent Evaluation"]
 
     principles = [
         "Question the data before modeling it",
@@ -53,6 +55,57 @@ class Abhay:
 </td>
 </tr>
 </table>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider">
+
+## 🌱 &nbsp;Currently Learning
+
+<div align="center">
+
+```
+Prompt Engineering  ──▶  RAG  ──▶  MCP  ──▶  AI Agents
+```
+
+<table>
+<tr>
+<td align="center" width="33%" valign="top">
+
+### 📚 RAG
+![Status](https://img.shields.io/badge/STATUS-BUILDING-22C55E?style=for-the-badge)
+
+Retrieval-Augmented Generation: grounding LLM answers in your own documents instead of guesses.
+
+`LangChain` `ChromaDB` `Groq`
+
+[**See my RAG project →**](https://github.com/ENGABHAY/Ai-Documents-Chatbot-Langchain)
+
+</td>
+<td align="center" width="33%" valign="top">
+
+### 🔌 MCP
+![Status](https://img.shields.io/badge/STATUS-UNDERSTANDING-38BDF8?style=for-the-badge)
+
+Model Context Protocol: the open standard for connecting LLM apps to tools and data sources.
+
+`Tools` `Servers` `Context`
+
+</td>
+<td align="center" width="33%" valign="top">
+
+### 🤖 AI Agents
+![Status](https://img.shields.io/badge/STATUS-LEARNING-A78BFA?style=for-the-badge)
+
+LLM agents that plan, call tools and finish multi-step tasks on their own.
+
+`Tool Calling` `LangGraph` `ReAct` `Evals`
+
+</td>
+</tr>
+</table>
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider">
 
@@ -364,7 +417,21 @@ If you're working on something interesting with data or LLMs, say hi.
 
 <br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote"/>
+<table>
+<tr>
+<td align="center">
+
+<br/>
+
+### *"The question of whether machines can think is about as relevant as the question of whether submarines can swim."*
+
+**Edsger W. Dijkstra**
+
+<br/>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
