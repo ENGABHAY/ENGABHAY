@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Abhay Kadam - Data Analyst, Data Scientist, ML and AI Engineer"/>
+<img src="assets/banner.svg" width="100%" alt="Abhay Kadam - Data Analyst, Data Scientist, AI and ML Engineer"/>
 
 <a href="https://github.com/ENGABHAY">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=2DD4BF&background=00000000&center=true&vCenter=true&width=820&height=45&lines=Cleaning+data+and+finding+the+story+in+it;Benchmarking+models+and+keeping+the+honest+winner;Shipping+ML+with+FastAPI+%2B+Streamlit;Building+LLM+apps+with+RAG+%26+LangChain" alt="Typing SVG"/>
@@ -26,12 +26,12 @@
 
 <table>
 <tr>
-<td width="56%" valign="top">
+<td valign="top">
 
 ```python
 class Abhay:
     roles     = ["Data Analyst", "Data Scientist",
-                 "ML Engineer", "AI Engineer"]
+                 "AI Engineer", "ML Engineer"]
     education = "B.Tech, Electronics & Computer Engg (2026)"
     college   = "Jawaharlal Nehru Engineering College"
     base      = "Hyderabad, India  |  PAN India / Remote"
@@ -49,20 +49,6 @@ class Abhay:
     def open_to(self):
         return "Full-time roles & internships 🚀"
 ```
-
-</td>
-<td width="44%" valign="top">
-
-### ⚡ At a Glance
-
-| | |
-|:--|:--|
-| 🎓 **CGPA** | 7.65 |
-| 📦 **Projects** | 9 end-to-end |
-| 🧪 **Model configs** (1 task) | 13 |
-| 📈 **Largest dataset** | ~318K rows |
-| 🚢 **Deployed with** | FastAPI + Streamlit |
-| 🔭 **Now building** | RAG apps |
 
 </td>
 </tr>
@@ -102,7 +88,7 @@ Feature engineering, honest benchmarking, leakage-safe splits and forecasting.
 </td>
 <td align="center" width="33%" valign="top">
 
-### 🤖 ML / AI Engineer
+### 🤖 AI / ML Engineer
 *Ship it and make it useful*
 
 `FastAPI` `Streamlit` `LangChain` `YOLOv8` `TensorFlow`
@@ -362,23 +348,13 @@ Jawaharlal Nehru Engineering College
 
 </div>
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ENGABHAY/ENGABHAY/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ENGABHAY/ENGABHAY/output/github-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/ENGABHAY/ENGABHAY/output/github-snake.svg" />
-</picture>
-
-</div>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider">
 
 ## 🤝 &nbsp;Let's Build Something
 
 <div align="center">
 
-I'm looking for **Data Analyst, Data Scientist, ML Engineer and AI Engineer** roles, in India or remote.
+I'm looking for **Data Analyst, Data Scientist, AI Engineer and ML Engineer** roles, in India or remote.
 If you're working on something interesting with data or LLMs, say hi.
 
 <br/>
