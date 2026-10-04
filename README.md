@@ -269,7 +269,7 @@ Custom YOLOv8n flags phones, books, headphones and extra people.
 </td>
 <td align="center" width="33%" valign="top">
 
-### 📰 News Event Clustering
+### 📰 AI News Event Clustering
 *Articles → events → timelines*
 
 ![SBERT](https://img.shields.io/badge/SBERT-6C47FF?style=flat-square)
