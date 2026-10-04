@@ -345,7 +345,22 @@ Jawaharlal Nehru Engineering College
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider">
 
-## 🐍 &nbsp;Contribution Graph
+## 📊 &nbsp;GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ENGABHAY&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2DD4BF&icon_color=2DD4BF&count_private=true" alt="stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ENGABHAY&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2DD4BF&langs_count=8" alt="languages"/>
+
+<img src="https://streak-stats.demolab.com?user=ENGABHAY&theme=tokyonight&hide_border=true&background=0d1117&ring=2DD4BF&fire=2DD4BF&currStreakLabel=2DD4BF" alt="streak"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=ENGABHAY&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="trophies"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ENGABHAY&bg_color=0d1117&color=2DD4BF&line=2DD4BF&point=FFFFFF&area=true&area_color=2DD4BF&hide_border=true" alt="activity graph" width="100%"/>
+
+</div>
 
 <div align="center">
 
@@ -373,6 +388,10 @@ If you're working on something interesting with data or LLMs, say hi.
 
 <br/>
 
-<img src="assets/footer.svg" width="100%" alt="footer"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote"/>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=140&section=footer&animation=fadeIn" width="100%" alt="footer"/>
 
 </div>
