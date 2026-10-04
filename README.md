@@ -368,7 +368,7 @@ flowchart LR
 ### 🎓 Education
 **B.Tech, Electronics & Computer Engineering**
 Jawaharlal Nehru Engineering College
-*Graduating 2026 · CGPA 7.65*
+*Graduating 2026 · CGPA 7.52*
 
 </td>
 <td width="50%" valign="top">
