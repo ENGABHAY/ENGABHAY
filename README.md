@@ -36,10 +36,17 @@ class Abhay:
                  "AI Engineer", "ML Engineer"]
     education = "B.Tech, Electronics & Computer Engg (2026)"
     college   = "Jawaharlal Nehru Engineering College"
+    cgpa      = 7.52
     base      = "Hyderabad, India  |  PAN India / Remote"
 
     learning  = ["Agentic AI", "LangGraph", "MCP",
                  "Tool Calling", "Agent Evaluation"]
+
+    certifications = [
+        "OCI 2025 Certified AI Foundations Associate",
+        "Complete Data Analyst Bootcamp (Udemy)",
+        "Python: Predictive Analytics (LinkedIn Learning)",
+    ]
 
     principles = [
         "Question the data before modeling it",
@@ -51,55 +58,6 @@ class Abhay:
     def open_to(self):
         return "Full-time roles & internships 🚀"
 ```
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider">
-
-## 🌱 &nbsp;Currently Learning
-
-<div align="center">
-
-```
-Prompt Engineering  ──▶  RAG  ──▶  MCP  ──▶  AI Agents
-```
-
-<table>
-<tr>
-<td align="center" width="33%" valign="top">
-
-### 📚 RAG
-![Status](https://img.shields.io/badge/STATUS-BUILDING-22C55E?style=for-the-badge)
-
-Retrieval-Augmented Generation: grounding LLM answers in your own documents instead of guesses.
-
-`LangChain` `ChromaDB` `Groq`
-
-[**See my RAG project →**](https://github.com/ENGABHAY/Ai-Documents-Chatbot-Langchain)
-
-</td>
-<td align="center" width="33%" valign="top">
-
-### 🔌 MCP
-![Status](https://img.shields.io/badge/STATUS-UNDERSTANDING-38BDF8?style=for-the-badge)
-
-Model Context Protocol: the open standard for connecting LLM apps to tools and data sources.
-
-`Tools` `Servers` `Context`
-
-</td>
-<td align="center" width="33%" valign="top">
-
-### 🤖 AI Agents
-![Status](https://img.shields.io/badge/STATUS-LEARNING-A78BFA?style=for-the-badge)
-
-LLM agents that plan, call tools and finish multi-step tasks on their own.
-
-`Tool Calling` `LangGraph` `ReAct` `Evals`
 
 </td>
 </tr>
@@ -124,7 +82,7 @@ LLM agents that plan, call tools and finish multi-step tasks on their own.
 
 Clean messy tables, explore patterns, build dashboards and clear visuals, and turn numbers into decisions.
 
-**Proof →** Retail Sales EDA, COVID-19 global analysis, ITSM incident analytics
+**Proof →** Retail Sales EDA, ABC Tech ITSM incident analytics
 
 </td>
 <td align="center" width="33%" valign="top">
@@ -136,7 +94,7 @@ Clean messy tables, explore patterns, build dashboards and clear visuals, and tu
 
 Feature engineering, honest benchmarking, leakage-safe splits and forecasting.
 
-**Proof →** Home Loan Default, Hospital Stay, ITSM, COVID Forecasting
+**Proof →** Home Loan Default, ABC Tech ITSM
 
 </td>
 <td align="center" width="33%" valign="top">
@@ -269,7 +227,7 @@ Custom YOLOv8n flags phones, books, headphones and extra people.
 </td>
 <td align="center" width="33%" valign="top">
 
-### 📰 AI News Event Clustering
+### 📰 News Event Clustering
 *Articles → events → timelines*
 
 ![SBERT](https://img.shields.io/badge/SBERT-6C47FF?style=flat-square)
@@ -293,23 +251,9 @@ Custom YOLOv8n flags phones, books, headphones and extra people.
 | | Project | What it does | Stack | Headline result |
 |:-:|:--|:--|:--|:--|
 | 🏦 | [**Home Loan Default Predictor**](https://github.com/ENGABHAY/Home-Loan-Default-Predictor) | Scores default risk (Low / Medium / High) for ~300K applicants from 7 relational tables, 209 engineered features | `CatBoost` `Optuna` `FastAPI` `Streamlit` | ROC-AUC **0.7907** |
-| 🏥 | [**Hospital Stay Prediction**](https://github.com/ENGABHAY/hospital-stay-prediction) | Binary and 11-class length-of-stay prediction on ~318K records, plus patient clustering | `XGBoost` `UMAP` `HDBSCAN` `FastAPI` | Binary + multiclass pipelines |
-| 🦠 | [**COVID-19 Forecasting**](https://github.com/ENGABHAY/Covid-19-Forecasting) | 5 time-series models and 8 regressors benchmarked on JHU CSSE data for 266 countries | `ARIMA` `Prophet` `SARIMAX` `Ridge` | Accuracy **90.01%** · R² **0.6355** |
 | 🎫 | [**ABC Tech ITSM Analytics**](https://github.com/ENGABHAY/ABC-Tech-ITSM) | Ticket priority classification, daily volume forecasting, RFC risk prediction on 46K+ incidents | `CatBoost` `SARIMAX` `FastAPI` | Priority ROC-AUC **0.9414** |
-| 🌾 | [**Rice Leaf Disease Detection**](https://github.com/ENGABHAY/Rice-Disease-Prediction-Deep-Learning) | 3-class disease classifier; 13 configurations benchmarked, failures documented | `MobileNetV2` `TensorFlow` `FastAPI` | Test accuracy **95.83%** |
-| 👥 | [**HR Attrition Predictor**](https://github.com/ENGABHAY/HR-Employee-Attrition-Predictor) | SMOTE-balanced ANN for IBM HR attrition with a risk-gauge dashboard | `TensorFlow` `SMOTE` `FastAPI` | End-to-end pipeline |
 
 </div>
-
-<details>
-<summary><b>🔬 Engineering notes: what I learned the hard way</b></summary>
-<br/>
-
-- **Leakage matters.** In the ITSM project I excluded `Impact` and `Urgency` as features, since together they define the priority target and the model would just learn a lookup table. Splits were chronological throughout.
-- **Failures are data.** EfficientNetB0 sat at 33.33% because of a preprocessing mismatch (expects `[0,255]`, got `[0,1]`). Fine-tuning MobileNetV2 on 119 images degraded it to 54.17%. Both are documented in the repo.
-- **Pin your versions.** A scikit-learn mismatch caused a `_RemainderColsList` crash when loading a saved preprocessor; pinning `scikit-learn==1.6.1` fixed it.
-
-</details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider">
 
@@ -320,9 +264,6 @@ Custom YOLOv8n flags phones, books, headphones and extra people.
 | | Project | The question | Tools |
 |:-:|:--|:--|:--|
 | 🛒 | [**Retail Sales EDA**](https://github.com/ENGABHAY/Retail_Sales_EDA_Python) | What do 2022–2024 global retail sales reveal about products, regions and trends? | `Python` `Pandas` `Matplotlib` `Seaborn` |
-| 🦠 | [**COVID-19 Global Analysis**](https://github.com/ENGABHAY/Covid-19-Forecasting) | How did cases evolve across 266 countries, and can the US curve be forecast? | `Pandas` `Plotly` `statsmodels` |
-| 🎫 | [**ITSM Incident Analytics**](https://github.com/ENGABHAY/ABC-Tech-ITSM) | Which of 46K+ tickets turn high priority, and when does volume spike? | `SQL` `Pandas` `Plotly` |
-| 🏥 | [**Hospital Stay Patterns**](https://github.com/ENGABHAY/hospital-stay-prediction) | Which patient groups naturally cluster by length of stay? | `UMAP` `HDBSCAN` `KMeans` |
 
 </div>
 
@@ -354,50 +295,6 @@ flowchart LR
     style B fill:#132f3a,stroke:#38BDF8,color:#fff
     style C fill:#1b2440,stroke:#A78BFA,color:#fff
 ```
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider">
-
-## 🎓 &nbsp;Education & Certifications
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎓 Education
-**B.Tech, Electronics & Computer Engineering**
-Jawaharlal Nehru Engineering College
-*Graduating 2026 · CGPA 7.52*
-
-</td>
-<td width="50%" valign="top">
-
-### 🏅 Certifications
-- **Oracle Cloud Infrastructure 2025**: Certified AI Foundations Associate
-- **Complete Data Analyst Bootcamp**: Udemy
-- **Python: Working with Predictive Analytics**: LinkedIn Learning
-
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider">
-
-## 📊 &nbsp;GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ENGABHAY&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2DD4BF&icon_color=2DD4BF&count_private=true" alt="stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ENGABHAY&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2DD4BF&langs_count=8" alt="languages"/>
-
-<img src="https://streak-stats.demolab.com?user=ENGABHAY&theme=tokyonight&hide_border=true&background=0d1117&ring=2DD4BF&fire=2DD4BF&currStreakLabel=2DD4BF" alt="streak"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=ENGABHAY&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="trophies"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ENGABHAY&bg_color=0d1117&color=2DD4BF&line=2DD4BF&point=FFFFFF&area=true&area_color=2DD4BF&hide_border=true" alt="activity graph" width="100%"/>
 
 </div>
 
