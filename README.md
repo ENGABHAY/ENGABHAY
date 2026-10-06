@@ -43,6 +43,7 @@ class Abhay:
                  "Tool Calling", "Agent Evaluation"]
 
     certifications = [
+        "IABAC Certified Data Science Professional (CDS) & AI Expert",
         "OCI 2025 Certified AI Foundations Associate",
         "Complete Data Analyst Bootcamp (Udemy)",
         "Python: Predictive Analytics (LinkedIn Learning)",
