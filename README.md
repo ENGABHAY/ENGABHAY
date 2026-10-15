@@ -44,6 +44,7 @@ class Abhay:
 
     certifications = [
         "IABAC Certified Data Science Professional (CDS) & AI Expert",
+        "Artificial Intelligence Engineer (AIE) Certification",
         "OCI 2025 Certified AI Foundations Associate",
         "Complete Data Analyst Bootcamp (Udemy)",
         "Python: Predictive Analytics (LinkedIn Learning)",
