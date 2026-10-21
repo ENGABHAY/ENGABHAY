@@ -37,7 +37,7 @@ class Abhay:
     education = "B.Tech, Electronics & Computer Engg (2026)"
     college   = "Jawaharlal Nehru Engineering College"
     cgpa      = 7.52
-    base      = "Hyderabad, India  |  PAN India / Remote"
+    base      = "Pune, Maharashtra, India  |  PAN India / Remote"
 
     learning  = ["Agentic AI", "LangGraph", "MCP",
                  "Tool Calling", "Agent Evaluation"]
